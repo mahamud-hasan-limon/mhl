@@ -1,3 +1,0 @@
-# mhl
-
-cd mhl
